@@ -1,1 +1,1 @@
-This is the new content that will replace the existing content in the file.
+['User: what do u see in this image \nAssistant: In this image we can see a poster. On the poster there are vehicles on the road. Also there are trees. In the background there is sky.']
