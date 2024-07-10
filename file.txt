@@ -1,1 +1,1 @@
-prompt response from computer  
+This is the new content that will replace the existing content in the file.
