@@ -1,1 +1,1 @@
-['User: what do u see in this image \nAssistant: In this image we can see a poster. On the poster there are vehicles on the road. Also there are trees. In the background there is sky.']
+['User: what do u see in this image \nAssistant: A truck and two cars on the road.']
