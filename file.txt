@@ -1,1 +1,1 @@
-['User: hello what are you doing \nAssistant: I am working on a computer.']
+['User: what do you see in this image \nAssistant: In this image we can see a monitor, fan, and a table.']
