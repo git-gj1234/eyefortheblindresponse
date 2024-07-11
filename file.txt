@@ -1,1 +1,1 @@
-['User: What is seen in this image \nAssistant: In this image we can see a mobile phone, keyboard, mouse and a laptop placed on the table.']
+['User: What is seen in this image \nAssistant: In this image we can see a mobile phone, keyboard and a laptop placed on the table.']
