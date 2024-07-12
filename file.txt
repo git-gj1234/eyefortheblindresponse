@@ -1,1 +1,1 @@
-['User: describe what you see \nAssistant: A square window above a monitor and business suit.']
+['User: can you describe what you see \nAssistant: In this image I can see few people are sitting on the chairs. In front of them there is a table. In the background there is a wall.']
