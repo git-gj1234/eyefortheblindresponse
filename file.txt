@@ -1,1 +1,1 @@
-['User: what what do you see this image \nAssistant: A person is wearing a black shirt with white squares on it.']
+['User: what do you see in this image \nAssistant: In this image we can see bags, books, papers and chair.']
