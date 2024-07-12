@@ -1,1 +1,1 @@
-['User: can you read me this menu can you read me this menu \nAssistant: No menu.']
+['User: what do you see in this image \nAssistant: In this image we can see a bottle, cables and a device on the table.']
