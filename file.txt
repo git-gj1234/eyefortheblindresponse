@@ -1,1 +1,1 @@
-['User: 1 minute 1 minute \nAssistant: A man with glasses on is giving the middle finger and sticking his tongue out.']
+['User: describe what you see \nAssistant: A square window above a monitor and business suit.']
