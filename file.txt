@@ -1,1 +1,1 @@
-['User: what colour is the bag \nAssistant: Black']
+['User: what what do you see this image \nAssistant: A person is wearing a black shirt with white squares on it.']
