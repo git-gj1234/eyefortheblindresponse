@@ -1,1 +1,1 @@
-['User: \nAssistant: A metal cylinder is against a white wall.']
+['User: can you describe what is in this image \nAssistant: In this image we can see a table. On the table there are monitors, keyboard, mouse, papers, pen and other objects. In the background there is a wall.']
